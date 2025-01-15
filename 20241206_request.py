@@ -4,7 +4,7 @@ import pandas as pd
 
 url_1 = 'https://ameblo.jp/tsuji-nozomi/entrylist-'
 url_2 = '.html'
-path = r'C:\Users\shuzo\Downloads\test_py\20241206.xlsx'
+path = r'格納先フォルダパス\20241206.xlsx'
 
 name_list = []
 url_list = []
